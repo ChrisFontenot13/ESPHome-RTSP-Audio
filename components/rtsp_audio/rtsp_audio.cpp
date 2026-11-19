@@ -18,6 +18,7 @@
 #include "esphome/components/network/util.h"
 #include "esphome/core/helpers.h"
 #include "esphome/core/log.h"
+#include "esphome/core/string_utils.h"
 
 namespace esphome::rtsp_audio {
 
